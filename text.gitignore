@@ -1,0 +1,9 @@
+# ビルド生成物
+bin/
+build/
+# Eclipse固有の設定ファイル
+.classpath
+.project
+.settings/
+# メタデータ
+.metadata/
